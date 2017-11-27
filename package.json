@@ -1,0 +1,19 @@
+{
+  "name": "coinhiveapi",
+  "version": "0.1.0",
+  "description": "Unofficial module for Coinhive API",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "coinhive",
+    "mining",
+    "api"
+  ],
+  "author": "statorcrime",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
